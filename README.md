@@ -18,6 +18,16 @@ Lazy eye can be effectively treated through vision therapy, and one engaging met
 
 ---
 
+## Results
+<h1 align="center">
+  <img src="Result/1st.gif" alt="Lazy Eye Games" width="400px">
+  <img src="Result/2nd.gif" alt="Lazy Eye Games" width="400px">
+  <img src="Result/3rd.gif" alt="Lazy Eye Games" width="400px">
+  <img src="Result/4th.gif" alt="Lazy Eye Games" width="400px">
+</h1>
+
+
+
 ## 🎮 Different Types of Eye Tracking Games
 
 ### 1. Dot Tracking Game 👀
